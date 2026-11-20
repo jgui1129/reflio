@@ -20,7 +20,7 @@
     "dotenv": "^16.0.1",
     "eslint-config-custom": "*",
     "eslint-config-next": "^13.1.6",
-    "next": "^13.1.6",
+    "next": "^15.5.29",
     "next-api-og-image": "^4.2.1",
     "next-transpile-modules": "^9.0.0",
     "postcss": "^8.4.4",
